@@ -41,6 +41,7 @@ i {
 }
 i:hover {
   opacity: 0.7;
+  color: #66cccc;
 }
 #profil-fotografi {
     height: 85vh;
